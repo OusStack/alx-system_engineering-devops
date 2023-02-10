@@ -5,3 +5,4 @@ Task 3: the new owner is a script that changes the owner of the file hello to th
 Task 4: Empty is a script that creates an empty file called hello
 Task 5: Execute is a script that adds execute permission to the owner of the file hello
 Task 6: Multiple permissions is a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
+Task 7: Everybody is a script that adds execution permission to the owner, the group owner and the other users, to the file hello
